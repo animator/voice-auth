@@ -16,3 +16,12 @@ Speaker2_digit_2\wav\Speaker2_digit_2_12.wav
 Speaker2_digit_3\wav\Speaker2_digit_3_10.wav
 Speaker2_digit_3\wav\Speaker2_digit_3_11.wav
 Speaker2_digit_3\wav\Speaker2_digit_3_12.wav
+Speaker3_digit_1\wav\Speaker3_digit_1_10.wav
+Speaker3_digit_1\wav\Speaker3_digit_1_11.wav
+Speaker3_digit_1\wav\Speaker3_digit_1_12.wav
+Speaker3_digit_2\wav\Speaker3_digit_2_10.wav
+Speaker3_digit_2\wav\Speaker3_digit_2_11.wav
+Speaker3_digit_2\wav\Speaker3_digit_2_12.wav
+Speaker3_digit_3\wav\Speaker3_digit_3_10.wav
+Speaker3_digit_3\wav\Speaker3_digit_3_11.wav
+Speaker3_digit_3\wav\Speaker3_digit_3_12.wav
